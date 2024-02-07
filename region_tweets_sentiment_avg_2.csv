@@ -1,0 +1,35 @@
+,region,count,sentiment_mean
+0,Aceh,7,0.35714285714285715
+1,Bali,200,0.385
+2,Banten,200,0.3625
+3,Bengkulu,14,0.4642857142857143
+4,DI Yogyakarta,200,0.3925
+5,DKI Jakarta,200,0.3925
+6,Gorontalo,17,0.47058823529411764
+7,Jambi,23,0.34782608695652173
+8,Jawa Barat,200,0.3975
+9,Jawa Tengah,200,0.38
+10,Jawa Timur,200,0.35
+11,Kalimantan Barat,2,0.5
+12,Kalimantan Selatan,94,0.40425531914893614
+13,Kalimantan Tengah,93,0.3709677419354839
+14,Kalimantan Timur,1,0.5
+15,Kalimantan Utara,200,0.3575
+16,Kepulauan Bangka Belitung,7,0.21428571428571427
+17,Kepulauan Riau,24,0.375
+18,Lampung,14,0.42857142857142855
+19,Maluku,4,0.5
+20,Maluku Utara,200,0.3575
+21,Nusa Tenggara Barat,56,0.39285714285714285
+22,Nusa Tenggara Timur,1,0.5
+23,Papua,48,0.4375
+24,Papua Barat,2,0.5
+25,Riau,111,0.42792792792792794
+26,Sulawesi Barat,4,0.5
+27,Sulawesi Selatan,99,0.4292929292929293
+28,Sulawesi Tengah,17,0.38235294117647056
+29,Sulawesi Tenggara,200,0.3575
+30,Sulawesi Utara,37,0.40540540540540543
+31,Sumatera Barat,102,0.3088235294117647
+32,Sumatera Selatan,200,0.6075
+33,Sumatera Utara,164,0.35365853658536583
